@@ -1,8 +1,1 @@
-Alert System
-
-The project will provide alerts for important events.
-
-Alert Types:
-- Warning
-- Information
-- Emergency
+Future improvement: Add notification sounds.
