@@ -1,6 +1,9 @@
 I am doing git practice.
 Today we starting GitHub.
 Let's make new folders and repositories in GitHub.
+
+We are learning Gitub in OST lab 5...
+
 ## Version 1.0
 
 The initial project features and alert system are now available.
