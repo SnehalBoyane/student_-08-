@@ -1,2 +1,3 @@
 I am doing git practice.
 Today we starting GitHub.
+Let's make new folders and repositories in GitHub.
